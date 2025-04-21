@@ -1,0 +1,7 @@
+string tipo
+float64 valor
+---
+bool success
+string mensaje
+---
+float64 progreso

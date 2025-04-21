@@ -1,0 +1,5 @@
+string tipo
+float64 valor
+---
+bool success
+string message

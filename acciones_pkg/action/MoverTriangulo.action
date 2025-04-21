@@ -1,0 +1,11 @@
+# Goal definition
+float64 lado
+
+---
+# Result definition
+bool success
+string mensaje
+
+---
+# Feedback definition
+float32 progreso
