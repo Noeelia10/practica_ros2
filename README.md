@@ -38,7 +38,7 @@ Este repositorio contiene los ejercicios prácticos del 1 al 8 desarrollados en 
 
 ---
 
-## 🧩 Paquetes auxiliares
+## Paquetes auxiliares
 
 ### 🔸 `acciones_pkg`
 Contiene los archivos `.action` que usan los ejercicios 5, 6 y 7:
